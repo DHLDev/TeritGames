@@ -1,0 +1,28 @@
+* {
+  font-family: "Rubik Doodle Shadow", cursive;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container #Root {
+  border: 5px solid black;
+}
+.container .sidebar {
+  font-size: 1.9rem;
+  margin-left: 30px;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container #Play {
+  background-color: rgb(51, 255, 0);
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+}/*# sourceMappingURL=style.css.map */

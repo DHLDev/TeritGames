@@ -1,0 +1,8 @@
+{"version":3,"sources":["../scss/style.scss","style.css"],"names":[],"mappings":"AAAA;EACM,2CAAA;EACA,UAAA;EACA,SAAA;ACCN;;ADCA;EACM,aAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;ACEN;ADDM;EACM,uBAAA;ACGZ;ADDM;EACM,iBAAA;EACA,iBAAA;EACA,WAAA;EACA,aAAA;EACA,sBAAA;EACA,8BAAA;ACGZ;ADDM;EACM,iCAAA;EACA,mBAAA;EACA,iBAAA;ACGZ","file":"style.css"}rection: column;
+  justify-content: space-between;
+}
+.container #Play {
+  background-color: rgb(51, 255, 0);
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+}/*# sourceMappingURL=style.css.map.map */
