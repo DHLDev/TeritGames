@@ -254,7 +254,7 @@ class Brick {
     this.layout = BRICK_LAYOUT[id];
     this.activeIndex = 0;
     this.ColPos = 3;
-    this.RowPos = -2;
+    this.RowPos = -1;
   }
 
   draw() {
